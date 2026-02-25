@@ -1,0 +1,8 @@
+{
+  "appId": "com.rescue.emergency",
+  "appName": "RESCUE",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
